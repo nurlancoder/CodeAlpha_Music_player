@@ -20,7 +20,7 @@ This is a simple music player project built using HTML, CSS, and JavaScript. It 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/music-player.git
+   git clone https://github.com/nurlancoder/music-player.git
    ```
 2. Open the `index.html` file in a web browser.
 3. Click the play button to start playing music.
